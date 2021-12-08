@@ -1,0 +1,6 @@
+dependencies:
+  - ipykernel
+  - torchvision
+  - pytorch
+  - matplotlib
+  - nbgitpuller
